@@ -19,7 +19,7 @@ export default function Dictionary() {
     }
 
     function handleKeywordChange(event) {
-        setKeyword(event.terget.value);
+        setKeyword(event.target.value);
     }
     
 
